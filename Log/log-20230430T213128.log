@@ -1,0 +1,211 @@
+21:31:28.988 INFO  manager.ApplicationManager Config file is: config
+21:31:28.989 INFO  manager.ApplicationManager Config file full name: src/test/resources/config.properties
+21:31:30.899 INFO  manager.ApplicationManager Testing on Chrome Driver
+21:31:34.111 INFO  manager.ApplicationManager Base url is:http://trello.com
+21:31:34.160 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+21:31:34.161 INFO  TestBase Login NegativeWrongEmail Test started
+21:31:34.167 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:31:34.198 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:31:35.979 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c6ff4b7db345822db751b7a4458c7ab8)] -> css selector: a[href='/login']]
+21:31:35.979 INFO  manager.MyListener Start searching element by By.id: user
+21:31:35.999 INFO  manager.MyListener Finish searching element by By.id: user
+21:31:36.062 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c6ff4b7db345822db751b7a4458c7ab8)] -> id: user]
+21:31:36.161 INFO  manager.MyListener Start searching element by By.id: login
+21:31:36.181 INFO  manager.MyListener Finish searching element by By.id: login
+21:31:36.229 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c6ff4b7db345822db751b7a4458c7ab8)] -> id: login]
+21:31:38.238 INFO  manager.MyListener Start searching element by By.id: password
+21:31:38.273 INFO  manager.MyListener Finish searching element by By.id: password
+21:31:38.323 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c6ff4b7db345822db751b7a4458c7ab8)] -> id: password]
+21:31:38.414 INFO  manager.MyListener Start searching element by By.id: login
+21:31:38.433 INFO  manager.MyListener Finish searching element by By.id: login
+21:31:38.481 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c6ff4b7db345822db751b7a4458c7ab8)] -> id: login]
+21:31:42.504 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:31:47.920 ERROR manager.MyListener Something went wrong
+21:31:47.921 ERROR manager.MyListener disconnected: unable to send message to renderer
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+*** Element info: {Using=class name, value=OUdAuicP657Tka}
+21:31:47.922 ERROR manager.MyListener disconnected: unable to send message to renderer
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+*** Element info: {Using=class name, value=OUdAuicP657Tka}
+21:31:47.929 INFO  manager.NGListener The test failure: org.openqa.selenium.WebDriverException: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+21:31:47.930 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+21:31:47.930 INFO  TestBase Login NegativeWrongEmail Test started
+21:31:47.934 ERROR manager.MyListener Something went wrong
+21:31:47.934 ERROR manager.MyListener disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+21:31:47.934 ERROR manager.MyListener disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+21:31:47.945 INFO  manager.NGListener The test failure: org.openqa.selenium.WebDriverException: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+21:31:47.946 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+21:31:47.947 INFO  TestBase Login NegativeWrongEmail Test started
+21:31:47.950 ERROR manager.MyListener Something went wrong
+21:31:47.950 ERROR manager.MyListener disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+21:31:47.951 ERROR manager.MyListener disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+21:31:47.956 INFO  manager.NGListener The test failure: org.openqa.selenium.WebDriverException: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+21:31:47.959 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+21:31:47.959 INFO  TestBase Login NegativeWrongPassword Test started
+21:31:47.962 ERROR manager.MyListener Something went wrong
+21:31:47.962 ERROR manager.MyListener disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+21:31:47.962 ERROR manager.MyListener disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+21:31:47.969 INFO  manager.NGListener The test failure: org.openqa.selenium.WebDriverException: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+21:31:47.971 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+21:31:47.971 INFO  TestBase Login NegativeWrongPassword Test started
+21:31:47.974 ERROR manager.MyListener Something went wrong
+21:31:47.974 ERROR manager.MyListener disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+21:31:47.974 ERROR manager.MyListener disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+21:31:47.979 INFO  manager.NGListener The test failure: org.openqa.selenium.WebDriverException: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+21:31:47.980 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+21:31:47.980 INFO  TestBase Login NegativeWrongPassword Test started
+21:31:47.985 ERROR manager.MyListener Something went wrong
+21:31:47.985 ERROR manager.MyListener disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+21:31:47.987 ERROR manager.MyListener disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+21:31:47.995 INFO  manager.NGListener The test failure: org.openqa.selenium.WebDriverException: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+21:31:47.998 INFO  manager.NGListener Start of the test loginPositiveTest
+21:31:47.999 INFO  TestBase Login Positive Test started
+21:31:48.007 ERROR manager.MyListener Something went wrong
+21:31:48.008 ERROR manager.MyListener disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+21:31:48.009 ERROR manager.MyListener disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8
+21:31:48.013 INFO  manager.NGListener The test failure: org.openqa.selenium.WebDriverException: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6ff4b7db345822db751b7a4458c7ab8

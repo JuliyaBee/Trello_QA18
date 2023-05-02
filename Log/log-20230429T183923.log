@@ -1,0 +1,63 @@
+18:39:27.044 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+18:39:27.052 INFO  TestBase Login NegativeWrongPassword Test started
+18:39:27.071 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+18:39:27.093 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+18:39:28.560 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c2e45376f034b8b73122c5de52775162)] -> css selector: a[href='/login']]
+18:39:28.561 INFO  manager.MyListener Start searching element by By.id: user
+18:39:28.589 INFO  manager.MyListener Finish searching element by By.id: user
+18:39:28.634 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c2e45376f034b8b73122c5de52775162)] -> id: user]
+18:39:28.735 INFO  manager.MyListener Start searching element by By.id: login
+18:39:28.758 INFO  manager.MyListener Finish searching element by By.id: login
+18:39:28.804 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c2e45376f034b8b73122c5de52775162)] -> id: login]
+18:39:30.814 INFO  manager.MyListener Start searching element by By.id: password
+18:39:31.862 INFO  manager.MyListener Finish searching element by By.id: password
+18:39:31.927 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c2e45376f034b8b73122c5de52775162)] -> id: password]
+18:39:32.062 INFO  manager.MyListener Start searching element by By.id: login-submit
+18:39:32.088 INFO  manager.MyListener Finish searching element by By.id: login-submit
+18:39:32.158 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c2e45376f034b8b73122c5de52775162)] -> id: login-submit]
+18:39:36.171 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+18:39:46.218 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+18:39:47.336 INFO  TestBase Login NegativeWrongPassword Test finished
+18:39:47.341 INFO  manager.NGListener The test success: loginNegativeWrongPasswordTest
+18:39:47.343 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+18:39:47.344 INFO  TestBase Login NegativeWrongPassword Test started
+18:39:47.419 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+18:39:47.445 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+18:39:48.174 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c2e45376f034b8b73122c5de52775162)] -> css selector: a[href='/login']]
+18:39:48.174 INFO  manager.MyListener Start searching element by By.id: user
+18:39:48.207 INFO  manager.MyListener Finish searching element by By.id: user
+18:39:48.286 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c2e45376f034b8b73122c5de52775162)] -> id: user]
+18:39:48.397 INFO  manager.MyListener Start searching element by By.id: login
+18:39:48.423 INFO  manager.MyListener Finish searching element by By.id: login
+18:39:48.473 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c2e45376f034b8b73122c5de52775162)] -> id: login]
+18:39:50.485 INFO  manager.MyListener Start searching element by By.id: password
+18:39:50.519 INFO  manager.MyListener Finish searching element by By.id: password
+18:39:50.594 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c2e45376f034b8b73122c5de52775162)] -> id: password]
+18:39:50.738 INFO  manager.MyListener Start searching element by By.id: login-submit
+18:39:50.766 INFO  manager.MyListener Finish searching element by By.id: login-submit
+18:39:50.830 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c2e45376f034b8b73122c5de52775162)] -> id: login-submit]
+18:39:54.850 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+18:40:04.886 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+18:40:05.854 INFO  TestBase Login NegativeWrongPassword Test finished
+18:40:05.855 INFO  manager.NGListener The test success: loginNegativeWrongPasswordTest
+18:40:05.855 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+18:40:05.856 INFO  TestBase Login NegativeWrongPassword Test started
+18:40:05.928 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+18:40:05.957 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+18:40:06.732 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c2e45376f034b8b73122c5de52775162)] -> css selector: a[href='/login']]
+18:40:06.732 INFO  manager.MyListener Start searching element by By.id: user
+18:40:06.749 INFO  manager.MyListener Finish searching element by By.id: user
+18:40:06.817 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c2e45376f034b8b73122c5de52775162)] -> id: user]
+18:40:06.905 INFO  manager.MyListener Start searching element by By.id: login
+18:40:06.917 INFO  manager.MyListener Finish searching element by By.id: login
+18:40:06.968 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c2e45376f034b8b73122c5de52775162)] -> id: login]
+18:40:08.969 INFO  manager.MyListener Start searching element by By.id: password
+18:40:09.002 INFO  manager.MyListener Finish searching element by By.id: password
+18:40:09.069 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c2e45376f034b8b73122c5de52775162)] -> id: password]
+18:40:09.177 INFO  manager.MyListener Start searching element by By.id: login-submit
+18:40:09.199 INFO  manager.MyListener Finish searching element by By.id: login-submit
+18:40:09.252 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c2e45376f034b8b73122c5de52775162)] -> id: login-submit]
+18:40:13.263 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+18:40:23.343 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+18:40:24.120 INFO  TestBase Login NegativeWrongPassword Test finished
+18:40:24.121 INFO  manager.NGListener The test success: loginNegativeWrongPasswordTest

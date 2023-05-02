@@ -1,0 +1,211 @@
+21:34:27.099 INFO  manager.ApplicationManager Config file is: config
+21:34:27.101 INFO  manager.ApplicationManager Config file full name: src/test/resources/config.properties
+21:34:29.060 INFO  manager.ApplicationManager Testing on Chrome Driver
+21:34:31.703 INFO  manager.ApplicationManager Base url is:http://trello.com
+21:34:31.744 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+21:34:31.744 INFO  TestBase Login NegativeWrongEmail Test started
+21:34:31.752 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:34:31.785 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:34:33.542 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (6b1cdc7bb449a7cc53359d25cd0fdcdb)] -> css selector: a[href='/login']]
+21:34:33.542 INFO  manager.MyListener Start searching element by By.id: user
+21:34:33.572 INFO  manager.MyListener Finish searching element by By.id: user
+21:34:33.622 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (6b1cdc7bb449a7cc53359d25cd0fdcdb)] -> id: user]
+21:34:33.726 INFO  manager.MyListener Start searching element by By.id: login
+21:34:33.743 INFO  manager.MyListener Finish searching element by By.id: login
+21:34:33.791 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (6b1cdc7bb449a7cc53359d25cd0fdcdb)] -> id: login]
+21:34:35.801 INFO  manager.MyListener Start searching element by By.id: password
+21:34:35.839 INFO  manager.MyListener Finish searching element by By.id: password
+21:34:35.899 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (6b1cdc7bb449a7cc53359d25cd0fdcdb)] -> id: password]
+21:34:35.979 INFO  manager.MyListener Start searching element by By.id: login
+21:34:35.994 INFO  manager.MyListener Finish searching element by By.id: login
+21:34:36.041 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (6b1cdc7bb449a7cc53359d25cd0fdcdb)] -> id: login]
+21:34:40.060 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:34:40.101 ERROR manager.MyListener Something went wrong
+21:34:40.102 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+*** Element info: {Using=class name, value=OUdAuicP657Tka}
+21:34:40.103 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+*** Element info: {Using=class name, value=OUdAuicP657Tka}
+21:34:40.114 INFO  manager.NGListener The test failure: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+21:34:40.115 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+21:34:40.115 INFO  TestBase Login NegativeWrongEmail Test started
+21:34:40.121 ERROR manager.MyListener Something went wrong
+21:34:40.122 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+21:34:40.122 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+21:34:40.130 INFO  manager.NGListener The test failure: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+21:34:40.131 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+21:34:40.131 INFO  TestBase Login NegativeWrongEmail Test started
+21:34:40.137 ERROR manager.MyListener Something went wrong
+21:34:40.138 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+21:34:40.138 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+21:34:40.142 INFO  manager.NGListener The test failure: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+21:34:40.148 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+21:34:40.148 INFO  TestBase Login NegativeWrongPassword Test started
+21:34:40.151 ERROR manager.MyListener Something went wrong
+21:34:40.151 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+21:34:40.152 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+21:34:40.157 INFO  manager.NGListener The test failure: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+21:34:40.157 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+21:34:40.158 INFO  TestBase Login NegativeWrongPassword Test started
+21:34:40.162 ERROR manager.MyListener Something went wrong
+21:34:40.162 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+21:34:40.163 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+21:34:40.166 INFO  manager.NGListener The test failure: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+21:34:40.167 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+21:34:40.167 INFO  TestBase Login NegativeWrongPassword Test started
+21:34:40.171 ERROR manager.MyListener Something went wrong
+21:34:40.171 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+21:34:40.171 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+21:34:40.175 INFO  manager.NGListener The test failure: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+21:34:40.177 INFO  manager.NGListener Start of the test loginPositiveTest
+21:34:40.177 INFO  TestBase Login Positive Test started
+21:34:40.180 ERROR manager.MyListener Something went wrong
+21:34:40.180 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+21:34:40.181 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb
+21:34:40.184 INFO  manager.NGListener The test failure: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b1cdc7bb449a7cc53359d25cd0fdcdb

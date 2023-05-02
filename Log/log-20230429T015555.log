@@ -1,0 +1,27 @@
+01:55:59.187 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+01:55:59.189 INFO  TestBase Login NegativeWrongEmail Test started
+01:55:59.199 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+01:55:59.226 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+01:56:00.791 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c44aab2469a5cce2c980f6ac5a2d2152)] -> css selector: a[href='/login']]
+01:56:00.791 INFO  manager.MyListener Start searching element by By.id: user
+01:56:00.806 INFO  manager.MyListener Finish searching element by By.id: user
+01:56:00.860 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c44aab2469a5cce2c980f6ac5a2d2152)] -> id: user]
+01:56:00.951 INFO  manager.MyListener Start searching element by By.id: login
+01:56:00.975 INFO  manager.MyListener Finish searching element by By.id: login
+01:56:01.030 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c44aab2469a5cce2c980f6ac5a2d2152)] -> id: login]
+01:56:03.039 INFO  manager.MyListener Start searching element by By.id: password
+01:56:03.069 INFO  manager.MyListener Finish searching element by By.id: password
+01:56:03.120 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c44aab2469a5cce2c980f6ac5a2d2152)] -> id: password]
+01:56:03.199 INFO  manager.MyListener Start searching element by By.id: login
+01:56:03.219 INFO  manager.MyListener Finish searching element by By.id: login
+01:56:03.260 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (c44aab2469a5cce2c980f6ac5a2d2152)] -> id: login]
+01:56:07.266 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+01:56:07.805 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+01:56:07.851 INFO  manager.NGListener The test failure: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63581}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c44aab2469a5cce2c980f6ac5a2d2152

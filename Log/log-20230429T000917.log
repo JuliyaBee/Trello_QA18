@@ -1,0 +1,4 @@
+00:09:17.355 INFO  manager.ApplicationManager Config file is: config
+00:09:17.357 INFO  manager.ApplicationManager Config file full name: src/test/resources/config.properties
+00:09:17.398 INFO  manager.NGListener Start of the test loginPositiveTest
+00:09:17.398 INFO  manager.NGListener Start of the test loginPositiveTest

@@ -1,0 +1,78 @@
+18:50:56.175 INFO  manager.ApplicationManager Config file is: config
+18:50:56.177 INFO  manager.ApplicationManager Config file full name: src/test/resources/config.properties
+18:50:58.064 INFO  manager.ApplicationManager Testing on Chrome Driver
+18:51:01.118 INFO  manager.ApplicationManager Base url is:http://trello.com
+18:51:01.155 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+18:51:01.156 INFO  TestBase Login NegativeWrongEmail Test started
+18:51:01.163 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+18:51:01.181 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+18:51:03.046 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (65b53d9f4bc570e6a21127870aaada36)] -> css selector: a[href='/login']]
+18:51:03.046 INFO  manager.MyListener Start searching element by By.id: user
+18:51:03.074 INFO  manager.MyListener Finish searching element by By.id: user
+18:51:03.138 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (65b53d9f4bc570e6a21127870aaada36)] -> id: user]
+18:51:03.222 INFO  manager.MyListener Start searching element by By.id: login
+18:51:03.238 INFO  manager.MyListener Finish searching element by By.id: login
+18:51:03.285 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (65b53d9f4bc570e6a21127870aaada36)] -> id: login]
+18:51:05.289 INFO  manager.MyListener Start searching element by By.id: password
+18:51:05.305 INFO  manager.MyListener Finish searching element by By.id: password
+18:51:05.355 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (65b53d9f4bc570e6a21127870aaada36)] -> id: password]
+18:51:05.429 INFO  manager.MyListener Start searching element by By.id: login
+18:51:05.447 INFO  manager.MyListener Finish searching element by By.id: login
+18:51:05.486 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (65b53d9f4bc570e6a21127870aaada36)] -> id: login]
+18:51:07.493 INFO  manager.MyListener Start searching element by By.cssSelector: p.error-message
+18:51:07.508 INFO  manager.MyListener Finish searching element by By.cssSelector: p.error-message
+18:51:07.540 INFO  manager.NGListener The test failure: java.lang.AssertionError: expected [true] but found [false]
+18:51:07.540 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+18:51:07.540 INFO  TestBase Login NegativeWrongEmail Test started
+18:51:07.549 INFO  manager.MyListener Start searching element by By.id: user
+18:51:07.556 INFO  manager.MyListener Finish searching element by By.id: user
+18:51:17.612 ERROR manager.MyListener Something went wrong
+18:51:17.612 ERROR manager.MyListener element not interactable
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.2.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58144}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 65b53d9f4bc570e6a21127870aaada36
+18:51:17.612 ERROR manager.MyListener element not interactable
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.2.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58144}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 65b53d9f4bc570e6a21127870aaada36
+18:51:17.810 INFO  manager.MyListener Here is the link to screenshot with error: src/test/screenshots/screenshot - 3077.png
+18:51:17.810 INFO  manager.NGListener The test failure: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.2.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58144}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 65b53d9f4bc570e6a21127870aaada36
+18:51:17.810 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+18:51:17.810 INFO  TestBase Login NegativeWrongEmail Test started
+18:51:17.818 INFO  manager.MyListener Start searching element by By.id: user
+18:51:17.826 INFO  manager.MyListener Finish searching element by By.id: user
+18:51:27.868 ERROR manager.MyListener Something went wrong
+18:51:27.883 ERROR manager.MyListener element not interactable
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.2.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58144}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 65b53d9f4bc570e6a21127870aaada36
+18:51:27.883 ERROR manager.MyListener element not interactable
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.2.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58144}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 65b53d9f4bc570e6a21127870aaada36
+18:51:28.068 INFO  manager.MyListener Here is the link to screenshot with error: src/test/screenshots/screenshot - 3087.png
+18:51:28.068 INFO  manager.NGListener The test failure: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.2.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58144}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 65b53d9f4bc570e6a21127870aaada36

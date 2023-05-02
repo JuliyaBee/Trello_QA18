@@ -1,0 +1,8 @@
+18:42:45.682 INFO  manager.ApplicationManager Config file is: config1
+18:42:45.738 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+18:42:45.738 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+18:42:45.739 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+18:42:45.745 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+18:42:45.746 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+18:42:45.746 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+18:42:45.753 INFO  manager.NGListener Start of the test loginPositiveTest

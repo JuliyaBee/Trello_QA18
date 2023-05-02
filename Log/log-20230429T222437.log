@@ -1,0 +1,4 @@
+22:24:37.411 INFO  manager.ApplicationManager Config file is: config
+22:24:37.414 INFO  manager.ApplicationManager Config file full name: src/test/resources/config.properties
+22:24:39.348 INFO  manager.ApplicationManager Testing on Chrome Driver
+22:24:44.197 INFO  manager.ApplicationManager Base url is:http://trello.com

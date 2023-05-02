@@ -1,0 +1,12 @@
+18:17:48.687 INFO  manager.ApplicationManager Config file is: config
+18:17:48.740 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+18:17:48.741 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+18:17:48.742 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+18:17:48.744 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+18:17:48.744 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+18:17:48.745 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+18:17:48.747 INFO  manager.NGListener The test failure: org.testng.internal.reflect.MethodMatcherException: 
+[public void LoginTest.loginPositiveTest()] has no parameters defined but was found to be using a data provider (either explicitly specified or inherited from class level annotation).
+Data provider mismatch
+Method: loginPositiveTest([])
+Arguments: [(models.User) User(email=juliyabee@gmail.com, password=Pass@word1)]

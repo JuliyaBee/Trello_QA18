@@ -1,0 +1,9 @@
+21:07:44.105 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+21:07:44.108 INFO  TestBase Login NegativeWrongEmail Test started
+21:07:44.112 INFO  manager.NGListener The test failure: java.lang.NullPointerException
+21:07:44.112 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+21:07:44.112 INFO  TestBase Login NegativeWrongEmail Test started
+21:07:44.112 INFO  manager.NGListener The test failure: java.lang.NullPointerException
+21:07:44.113 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+21:07:44.113 INFO  TestBase Login NegativeWrongEmail Test started
+21:07:44.114 INFO  manager.NGListener The test failure: java.lang.NullPointerException

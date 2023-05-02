@@ -1,0 +1,6 @@
+20:14:37.465 INFO  manager.ApplicationManager Config file is: config
+20:14:37.467 INFO  manager.ApplicationManager Config file full name: src/test/resources/config.properties
+20:14:39.285 INFO  manager.ApplicationManager Testing on Chrome Driver
+20:14:54.861 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+20:14:54.862 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+20:14:54.863 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest

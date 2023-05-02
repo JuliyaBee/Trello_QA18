@@ -1,0 +1,8 @@
+18:36:46.977 INFO  manager.ApplicationManager Config file is: config
+18:36:47.030 INFO  manager.NGListener The test failure: org.testng.TestNGException: 
+Cannot inject @Test annotated Method [loginNegativeWrongEmailTest] with [class models.User].
+For more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection
+18:36:47.042 INFO  manager.NGListener The test failure: org.testng.TestNGException: 
+Cannot inject @Test annotated Method [loginNegativeWrongPasswordTest] with [class models.User].
+For more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection
+18:36:47.067 INFO  manager.NGListener Start of the test loginPositiveTest

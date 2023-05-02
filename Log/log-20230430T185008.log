@@ -1,0 +1,75 @@
+18:50:08.560 INFO  manager.ApplicationManager Config file is: config
+18:50:08.563 INFO  manager.ApplicationManager Config file full name: src/test/resources/config.properties
+18:50:10.472 INFO  manager.ApplicationManager Testing on Chrome Driver
+18:50:12.953 INFO  manager.ApplicationManager Base url is:http://trello.com
+18:50:12.993 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+18:50:12.993 INFO  TestBase Login NegativeWrongPassword Test started
+18:50:13.001 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+18:50:13.017 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+18:50:15.111 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (4413644bd1d804e0a239e5476b1e52a9)] -> css selector: a[href='/login']]
+18:50:15.111 INFO  manager.MyListener Start searching element by By.id: user
+18:50:15.126 INFO  manager.MyListener Finish searching element by By.id: user
+18:50:15.174 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (4413644bd1d804e0a239e5476b1e52a9)] -> id: user]
+18:50:15.277 INFO  manager.MyListener Start searching element by By.id: login
+18:50:15.299 INFO  manager.MyListener Finish searching element by By.id: login
+18:50:15.342 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (4413644bd1d804e0a239e5476b1e52a9)] -> id: login]
+18:50:17.349 INFO  manager.MyListener Start searching element by By.id: password
+18:50:19.871 INFO  manager.MyListener Finish searching element by By.id: password
+18:50:19.925 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (4413644bd1d804e0a239e5476b1e52a9)] -> id: password]
+18:50:20.024 INFO  manager.MyListener Start searching element by By.id: login-submit
+18:50:20.046 INFO  manager.MyListener Finish searching element by By.id: login-submit
+18:50:20.100 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (4413644bd1d804e0a239e5476b1e52a9)] -> id: login-submit]
+18:50:24.114 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+18:50:34.182 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+18:50:34.185 INFO  manager.MyListener Start searching element by By.cssSelector: span[class='css-xal9c7'] span
+18:50:34.208 INFO  manager.MyListener Finish searching element by By.cssSelector: span[class='css-xal9c7'] span
+18:50:34.232 INFO  manager.NGListener The test failure: java.lang.AssertionError: expected [true] but found [false]
+18:50:34.233 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+18:50:34.233 INFO  TestBase Login NegativeWrongPassword Test started
+18:50:34.239 INFO  manager.MyListener Start searching element by By.id: user
+18:50:41.310 ERROR manager.MyListener Something went wrong
+18:50:41.311 ERROR manager.MyListener Cannot locate an element using id=user
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.2.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: driver.version: EventFiringWebDriver
+18:50:41.311 ERROR manager.MyListener Cannot locate an element using id=user
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.2.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: driver.version: EventFiringWebDriver
+18:50:41.324 INFO  manager.NGListener The test failure: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.2.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58042}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4413644bd1d804e0a239e5476b1e52a9
+18:50:41.328 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+18:50:41.328 INFO  TestBase Login NegativeWrongPassword Test started
+18:50:41.335 ERROR manager.MyListener Something went wrong
+18:50:41.335 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.2.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58042}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4413644bd1d804e0a239e5476b1e52a9
+18:50:41.335 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.2.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58042}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4413644bd1d804e0a239e5476b1e52a9
+18:50:41.340 INFO  manager.NGListener The test failure: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.2.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58042}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4413644bd1d804e0a239e5476b1e52a9

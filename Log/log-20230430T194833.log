@@ -1,0 +1,3 @@
+19:48:33.279 INFO  manager.NGListener Start of the test loginPositiveTest
+19:48:33.287 INFO  TestBase Login Positive Test started
+19:48:33.292 INFO  manager.NGListener The test failure: java.lang.NullPointerException

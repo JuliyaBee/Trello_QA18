@@ -1,0 +1,187 @@
+21:30:07.315 INFO  manager.ApplicationManager Config file is: config
+21:30:07.317 INFO  manager.ApplicationManager Config file full name: src/test/resources/config.properties
+21:30:09.161 INFO  manager.ApplicationManager Testing on Chrome Driver
+21:30:11.372 INFO  manager.ApplicationManager Base url is:http://trello.com
+21:30:11.407 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+21:30:11.408 INFO  TestBase Login NegativeWrongEmail Test started
+21:30:11.415 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:30:11.453 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:30:13.195 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> css selector: a[href='/login']]
+21:30:13.195 INFO  manager.MyListener Start searching element by By.id: user
+21:30:13.223 INFO  manager.MyListener Finish searching element by By.id: user
+21:30:13.272 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: user]
+21:30:13.370 INFO  manager.MyListener Start searching element by By.id: login
+21:30:13.391 INFO  manager.MyListener Finish searching element by By.id: login
+21:30:13.438 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: login]
+21:30:15.444 INFO  manager.MyListener Start searching element by By.id: password
+21:30:15.473 INFO  manager.MyListener Finish searching element by By.id: password
+21:30:15.518 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: password]
+21:30:15.594 INFO  manager.MyListener Start searching element by By.id: login
+21:30:15.610 INFO  manager.MyListener Finish searching element by By.id: login
+21:30:15.653 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: login]
+21:30:19.667 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:30:29.700 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+21:30:30.899 INFO  TestBase Login NegativeWrongEmail Test finished
+21:30:30.904 INFO  manager.NGListener The test success: loginNegativeWrongEmailTest
+21:30:30.905 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+21:30:30.905 INFO  TestBase Login NegativeWrongEmail Test started
+21:30:30.960 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:30:30.985 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:30:31.695 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> css selector: a[href='/login']]
+21:30:31.695 INFO  manager.MyListener Start searching element by By.id: user
+21:30:31.719 INFO  manager.MyListener Finish searching element by By.id: user
+21:30:31.769 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: user]
+21:30:31.861 INFO  manager.MyListener Start searching element by By.id: login
+21:30:31.873 INFO  manager.MyListener Finish searching element by By.id: login
+21:30:31.927 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: login]
+21:30:33.932 INFO  manager.MyListener Start searching element by By.id: password
+21:30:33.965 INFO  manager.MyListener Finish searching element by By.id: password
+21:30:34.027 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: password]
+21:30:34.130 INFO  manager.MyListener Start searching element by By.id: login
+21:30:34.140 INFO  manager.MyListener Finish searching element by By.id: login
+21:30:34.190 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: login]
+21:30:38.202 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:30:48.246 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+21:30:49.530 INFO  TestBase Login NegativeWrongEmail Test finished
+21:30:49.531 INFO  manager.NGListener The test success: loginNegativeWrongEmailTest
+21:30:49.532 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+21:30:49.532 INFO  TestBase Login NegativeWrongEmail Test started
+21:30:49.614 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:30:49.659 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:30:50.508 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> css selector: a[href='/login']]
+21:30:50.508 INFO  manager.MyListener Start searching element by By.id: user
+21:30:50.530 INFO  manager.MyListener Finish searching element by By.id: user
+21:30:50.581 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: user]
+21:30:50.666 INFO  manager.MyListener Start searching element by By.id: login
+21:30:50.680 INFO  manager.MyListener Finish searching element by By.id: login
+21:30:50.729 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: login]
+21:30:52.737 INFO  manager.MyListener Start searching element by By.id: password
+21:30:52.774 INFO  manager.MyListener Finish searching element by By.id: password
+21:30:52.823 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: password]
+21:30:52.900 INFO  manager.MyListener Start searching element by By.id: login
+21:30:52.916 INFO  manager.MyListener Finish searching element by By.id: login
+21:30:52.959 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: login]
+21:30:56.967 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:31:07.002 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+21:31:08.372 INFO  TestBase Login NegativeWrongEmail Test finished
+21:31:08.372 INFO  manager.NGListener The test success: loginNegativeWrongEmailTest
+21:31:08.376 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+21:31:08.377 INFO  TestBase Login NegativeWrongPassword Test started
+21:31:08.453 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:31:08.497 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:31:09.489 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> css selector: a[href='/login']]
+21:31:09.490 INFO  manager.MyListener Start searching element by By.id: user
+21:31:09.506 INFO  manager.MyListener Finish searching element by By.id: user
+21:31:09.559 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: user]
+21:31:09.644 INFO  manager.MyListener Start searching element by By.id: login
+21:31:09.661 INFO  manager.MyListener Finish searching element by By.id: login
+21:31:09.713 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: login]
+21:31:11.726 INFO  manager.MyListener Start searching element by By.id: password
+21:31:13.022 INFO  manager.MyListener Finish searching element by By.id: password
+21:31:13.077 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: password]
+21:31:13.174 INFO  manager.MyListener Start searching element by By.id: login-submit
+21:31:13.191 INFO  manager.MyListener Finish searching element by By.id: login-submit
+21:31:13.239 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: login-submit]
+21:31:17.249 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:31:27.314 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+21:31:27.314 INFO  manager.MyListener Start searching element by By.cssSelector: span[class='css-xal9c7'] span
+21:31:27.338 INFO  manager.MyListener Finish searching element by By.cssSelector: span[class='css-xal9c7'] span
+21:31:28.192 INFO  TestBase Login NegativeWrongPassword Test finished
+21:31:28.193 INFO  manager.NGListener The test success: loginNegativeWrongPasswordTest
+21:31:28.193 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+21:31:28.194 INFO  TestBase Login NegativeWrongPassword Test started
+21:31:28.255 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:31:28.328 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:31:29.132 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> css selector: a[href='/login']]
+21:31:29.132 INFO  manager.MyListener Start searching element by By.id: user
+21:31:29.149 INFO  manager.MyListener Finish searching element by By.id: user
+21:31:29.199 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: user]
+21:31:29.312 INFO  manager.MyListener Start searching element by By.id: login
+21:31:29.340 INFO  manager.MyListener Finish searching element by By.id: login
+21:31:29.396 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: login]
+21:31:31.399 INFO  manager.MyListener Start searching element by By.id: password
+21:31:31.426 INFO  manager.MyListener Finish searching element by By.id: password
+21:31:31.478 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: password]
+21:31:31.575 INFO  manager.MyListener Start searching element by By.id: login-submit
+21:31:31.596 INFO  manager.MyListener Finish searching element by By.id: login-submit
+21:31:31.647 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: login-submit]
+21:31:35.671 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:31:45.724 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+21:31:45.725 INFO  manager.MyListener Start searching element by By.cssSelector: span[class='css-xal9c7'] span
+21:31:45.750 INFO  manager.MyListener Finish searching element by By.cssSelector: span[class='css-xal9c7'] span
+21:31:46.682 INFO  TestBase Login NegativeWrongPassword Test finished
+21:31:46.684 INFO  manager.NGListener The test success: loginNegativeWrongPasswordTest
+21:31:46.684 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+21:31:46.685 INFO  TestBase Login NegativeWrongPassword Test started
+21:31:46.746 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:31:46.765 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:31:48.120 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> css selector: a[href='/login']]
+21:31:48.120 INFO  manager.MyListener Start searching element by By.id: user
+21:31:48.143 INFO  manager.MyListener Finish searching element by By.id: user
+21:31:48.195 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: user]
+21:31:48.275 INFO  manager.MyListener Start searching element by By.id: login
+21:31:48.292 INFO  manager.MyListener Finish searching element by By.id: login
+21:31:48.340 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: login]
+21:31:50.344 INFO  manager.MyListener Start searching element by By.id: password
+21:31:50.380 INFO  manager.MyListener Finish searching element by By.id: password
+21:31:50.434 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: password]
+21:31:50.539 INFO  manager.MyListener Start searching element by By.id: login-submit
+21:31:50.558 INFO  manager.MyListener Finish searching element by By.id: login-submit
+21:31:50.609 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (f3a4c43f76b438468261d87a5758fc1d)] -> id: login-submit]
+21:31:54.638 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:32:04.342 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+21:32:04.344 INFO  manager.MyListener Start searching element by By.cssSelector: span[class='css-xal9c7'] span
+21:32:04.379 ERROR manager.MyListener Something went wrong
+21:32:04.380 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63413}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f3a4c43f76b438468261d87a5758fc1d
+*** Element info: {Using=css selector, value=span[class='css-xal9c7'] span}
+21:32:04.381 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63413}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f3a4c43f76b438468261d87a5758fc1d
+*** Element info: {Using=css selector, value=span[class='css-xal9c7'] span}
+21:32:04.386 INFO  manager.NGListener The test failure: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63413}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f3a4c43f76b438468261d87a5758fc1d
+21:32:04.390 INFO  manager.NGListener Start of the test loginPositiveTest
+21:32:04.391 INFO  TestBase Login Positive Test started
+21:32:04.407 ERROR manager.MyListener Something went wrong
+21:32:04.407 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63413}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f3a4c43f76b438468261d87a5758fc1d
+21:32:04.407 ERROR manager.MyListener no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63413}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f3a4c43f76b438468261d87a5758fc1d
+21:32:04.429 INFO  manager.NGListener The test failure: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63413}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f3a4c43f76b438468261d87a5758fc1d

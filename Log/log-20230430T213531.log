@@ -1,0 +1,166 @@
+21:35:31.794 INFO  manager.ApplicationManager Config file is: config
+21:35:31.796 INFO  manager.ApplicationManager Config file full name: src/test/resources/config.properties
+21:35:33.663 INFO  manager.ApplicationManager Testing on Chrome Driver
+21:35:37.609 INFO  manager.ApplicationManager Base url is:http://trello.com
+21:35:37.656 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+21:35:37.656 INFO  TestBase Login NegativeWrongEmail Test started
+21:35:37.663 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:35:37.681 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:35:39.677 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> css selector: a[href='/login']]
+21:35:39.678 INFO  manager.MyListener Start searching element by By.id: user
+21:35:39.698 INFO  manager.MyListener Finish searching element by By.id: user
+21:35:39.764 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: user]
+21:35:39.888 INFO  manager.MyListener Start searching element by By.id: login
+21:35:39.912 INFO  manager.MyListener Finish searching element by By.id: login
+21:35:39.961 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: login]
+21:35:41.963 INFO  manager.MyListener Start searching element by By.id: password
+21:35:41.990 INFO  manager.MyListener Finish searching element by By.id: password
+21:35:42.029 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: password]
+21:35:42.104 INFO  manager.MyListener Start searching element by By.id: login
+21:35:42.125 INFO  manager.MyListener Finish searching element by By.id: login
+21:35:42.166 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: login]
+21:35:46.185 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:35:56.241 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+21:35:57.302 INFO  TestBase Login NegativeWrongEmail Test finished
+21:35:57.305 INFO  manager.NGListener The test success: loginNegativeWrongEmailTest
+21:35:57.306 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+21:35:57.307 INFO  TestBase Login NegativeWrongEmail Test started
+21:35:57.329 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:35:57.356 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:35:58.254 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> css selector: a[href='/login']]
+21:35:58.254 INFO  manager.MyListener Start searching element by By.id: user
+21:35:58.272 INFO  manager.MyListener Finish searching element by By.id: user
+21:35:58.326 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: user]
+21:35:58.412 INFO  manager.MyListener Start searching element by By.id: login
+21:35:58.441 INFO  manager.MyListener Finish searching element by By.id: login
+21:35:58.492 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: login]
+21:36:00.497 INFO  manager.MyListener Start searching element by By.id: password
+21:36:00.528 INFO  manager.MyListener Finish searching element by By.id: password
+21:36:00.581 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: password]
+21:36:00.654 INFO  manager.MyListener Start searching element by By.id: login
+21:36:00.673 INFO  manager.MyListener Finish searching element by By.id: login
+21:36:00.714 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: login]
+21:36:04.726 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:36:14.798 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+21:36:15.718 INFO  TestBase Login NegativeWrongEmail Test finished
+21:36:15.718 INFO  manager.NGListener The test success: loginNegativeWrongEmailTest
+21:36:15.718 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+21:36:15.719 INFO  TestBase Login NegativeWrongEmail Test started
+21:36:15.803 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:36:15.834 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:36:16.759 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> css selector: a[href='/login']]
+21:36:16.759 INFO  manager.MyListener Start searching element by By.id: user
+21:36:16.776 INFO  manager.MyListener Finish searching element by By.id: user
+21:36:16.842 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: user]
+21:36:16.939 INFO  manager.MyListener Start searching element by By.id: login
+21:36:16.958 INFO  manager.MyListener Finish searching element by By.id: login
+21:36:17.004 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: login]
+21:36:19.012 INFO  manager.MyListener Start searching element by By.id: password
+21:36:19.047 INFO  manager.MyListener Finish searching element by By.id: password
+21:36:19.093 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: password]
+21:36:19.175 INFO  manager.MyListener Start searching element by By.id: login
+21:36:19.191 INFO  manager.MyListener Finish searching element by By.id: login
+21:36:19.234 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: login]
+21:36:23.243 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:36:33.323 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+21:36:34.148 INFO  TestBase Login NegativeWrongEmail Test finished
+21:36:34.149 INFO  manager.NGListener The test success: loginNegativeWrongEmailTest
+21:36:34.152 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+21:36:34.153 INFO  TestBase Login NegativeWrongPassword Test started
+21:36:34.225 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:36:34.252 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:36:35.190 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> css selector: a[href='/login']]
+21:36:35.190 INFO  manager.MyListener Start searching element by By.id: user
+21:36:35.210 INFO  manager.MyListener Finish searching element by By.id: user
+21:36:35.264 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: user]
+21:36:35.367 INFO  manager.MyListener Start searching element by By.id: login
+21:36:35.397 INFO  manager.MyListener Finish searching element by By.id: login
+21:36:35.460 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: login]
+21:36:37.468 INFO  manager.MyListener Start searching element by By.id: password
+21:36:39.598 INFO  manager.MyListener Finish searching element by By.id: password
+21:36:39.651 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: password]
+21:36:39.754 INFO  manager.MyListener Start searching element by By.id: login-submit
+21:36:39.777 INFO  manager.MyListener Finish searching element by By.id: login-submit
+21:36:39.831 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: login-submit]
+21:36:43.842 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:36:53.894 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+21:36:53.895 INFO  manager.MyListener Start searching element by By.cssSelector: span[class='css-xal9c7'] span
+21:36:53.919 INFO  manager.MyListener Finish searching element by By.cssSelector: span[class='css-xal9c7'] span
+21:36:55.062 INFO  TestBase Login NegativeWrongPassword Test finished
+21:36:55.063 INFO  manager.NGListener The test success: loginNegativeWrongPasswordTest
+21:36:55.064 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+21:36:55.065 INFO  TestBase Login NegativeWrongPassword Test started
+21:36:55.131 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:36:55.164 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:36:56.730 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> css selector: a[href='/login']]
+21:36:56.730 INFO  manager.MyListener Start searching element by By.id: user
+21:36:56.751 INFO  manager.MyListener Finish searching element by By.id: user
+21:36:56.829 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: user]
+21:36:56.966 INFO  manager.MyListener Start searching element by By.id: login
+21:36:56.979 INFO  manager.MyListener Finish searching element by By.id: login
+21:36:57.031 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: login]
+21:36:59.039 INFO  manager.MyListener Start searching element by By.id: password
+21:36:59.069 INFO  manager.MyListener Finish searching element by By.id: password
+21:36:59.126 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: password]
+21:36:59.234 INFO  manager.MyListener Start searching element by By.id: login-submit
+21:36:59.252 INFO  manager.MyListener Finish searching element by By.id: login-submit
+21:36:59.307 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: login-submit]
+21:37:03.326 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:37:13.368 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+21:37:13.368 INFO  manager.MyListener Start searching element by By.cssSelector: span[class='css-xal9c7'] span
+21:37:13.385 INFO  manager.MyListener Finish searching element by By.cssSelector: span[class='css-xal9c7'] span
+21:37:14.479 INFO  TestBase Login NegativeWrongPassword Test finished
+21:37:14.480 INFO  manager.NGListener The test success: loginNegativeWrongPasswordTest
+21:37:14.481 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+21:37:14.482 INFO  TestBase Login NegativeWrongPassword Test started
+21:37:14.491 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:37:14.517 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:37:15.587 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> css selector: a[href='/login']]
+21:37:15.588 INFO  manager.MyListener Start searching element by By.id: user
+21:37:15.615 INFO  manager.MyListener Finish searching element by By.id: user
+21:37:15.672 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: user]
+21:37:15.759 INFO  manager.MyListener Start searching element by By.id: login
+21:37:15.776 INFO  manager.MyListener Finish searching element by By.id: login
+21:37:15.827 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: login]
+21:37:17.829 INFO  manager.MyListener Start searching element by By.id: password
+21:37:17.858 INFO  manager.MyListener Finish searching element by By.id: password
+21:37:17.913 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: password]
+21:37:18.014 INFO  manager.MyListener Start searching element by By.id: login-submit
+21:37:18.027 INFO  manager.MyListener Finish searching element by By.id: login-submit
+21:37:18.081 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: login-submit]
+21:37:22.095 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:37:32.177 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+21:37:32.177 INFO  manager.MyListener Start searching element by By.cssSelector: span[class='css-xal9c7'] span
+21:37:32.201 INFO  manager.MyListener Finish searching element by By.cssSelector: span[class='css-xal9c7'] span
+21:37:32.991 INFO  TestBase Login NegativeWrongPassword Test finished
+21:37:32.991 INFO  manager.NGListener The test success: loginNegativeWrongPasswordTest
+21:37:32.994 INFO  manager.NGListener Start of the test loginPositiveTest
+21:37:32.995 INFO  TestBase Login Positive Test started
+21:37:33.091 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:37:33.111 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:37:33.999 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> css selector: a[href='/login']]
+21:37:33.999 INFO  manager.MyListener Start searching element by By.id: user
+21:37:34.024 INFO  manager.MyListener Finish searching element by By.id: user
+21:37:34.073 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: user]
+21:37:34.166 INFO  manager.MyListener Start searching element by By.id: login
+21:37:34.195 INFO  manager.MyListener Finish searching element by By.id: login
+21:37:34.253 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: login]
+21:37:36.265 INFO  manager.MyListener Start searching element by By.id: password
+21:37:36.303 INFO  manager.MyListener Finish searching element by By.id: password
+21:37:36.360 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: password]
+21:37:36.483 INFO  manager.MyListener Start searching element by By.id: login-submit
+21:37:36.503 INFO  manager.MyListener Finish searching element by By.id: login-submit
+21:37:36.550 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: login-submit]
+21:37:38.556 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:37:43.976 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+21:37:43.976 INFO  manager.MyListener Start searching element by By.cssSelector: button[data-testid='header-member-menu-button']
+21:37:44.003 INFO  manager.MyListener Finish searching element by By.cssSelector: button[data-testid='header-member-menu-button']
+21:37:44.076 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> css selector: button[data-testid='header-member-menu-button']]
+21:37:44.076 INFO  manager.MyListener Start searching element by By.cssSelector: button[data-testid='account-menu-logout']
+21:37:44.668 INFO  manager.MyListener Finish searching element by By.cssSelector: button[data-testid='account-menu-logout']
+21:37:45.791 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> css selector: button[data-testid='account-menu-logout']]
+21:37:45.791 INFO  manager.MyListener Start searching element by By.id: logout-submit
+21:37:45.808 INFO  manager.MyListener Finish searching element by By.id: logout-submit
+21:37:46.826 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (dfe0836dbcb295b900573d34d5eb982c)] -> id: logout-submit]
+21:37:48.828 INFO  TestBase Login Positive Test finished
+21:37:48.828 INFO  manager.NGListener The test success: loginPositiveTest

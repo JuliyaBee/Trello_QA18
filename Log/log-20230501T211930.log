@@ -1,0 +1,176 @@
+21:19:30.557 INFO  manager.ApplicationManager Config file is: config
+21:19:30.559 INFO  manager.ApplicationManager Config file full name: src/test/resources/config.properties
+21:19:32.397 INFO  manager.ApplicationManager Testing on Chrome Driver
+21:19:35.009 INFO  manager.ApplicationManager Base url is:http://trello.com
+21:19:35.052 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+21:19:35.053 INFO  TestBase Login NegativeWrongEmail Test started
+21:19:35.061 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:19:35.085 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:19:36.460 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> css selector: a[href='/login']]
+21:19:36.461 INFO  manager.MyListener Start searching element by By.id: user
+21:19:36.488 INFO  manager.MyListener Finish searching element by By.id: user
+21:19:36.537 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: user]
+21:19:36.627 INFO  manager.MyListener Start searching element by By.id: login
+21:19:36.644 INFO  manager.MyListener Finish searching element by By.id: login
+21:19:36.690 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: login]
+21:19:38.703 INFO  manager.MyListener Start searching element by By.id: password
+21:19:38.741 INFO  manager.MyListener Finish searching element by By.id: password
+21:19:38.790 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: password]
+21:19:38.868 INFO  manager.MyListener Start searching element by By.id: login
+21:19:38.879 INFO  manager.MyListener Finish searching element by By.id: login
+21:19:38.926 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: login]
+21:19:42.936 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:19:53.021 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+21:19:54.128 INFO  TestBase Login NegativeWrongEmail Test finished
+21:19:54.133 INFO  manager.NGListener The test success: loginNegativeWrongEmailTest
+21:19:54.134 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+21:19:54.134 INFO  TestBase Login NegativeWrongEmail Test started
+21:19:54.191 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:19:54.213 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:19:55.188 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> css selector: a[href='/login']]
+21:19:55.188 INFO  manager.MyListener Start searching element by By.id: user
+21:19:55.209 INFO  manager.MyListener Finish searching element by By.id: user
+21:19:55.275 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: user]
+21:19:55.374 INFO  manager.MyListener Start searching element by By.id: login
+21:19:55.393 INFO  manager.MyListener Finish searching element by By.id: login
+21:19:55.449 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: login]
+21:19:57.459 INFO  manager.MyListener Start searching element by By.id: password
+21:19:57.498 INFO  manager.MyListener Finish searching element by By.id: password
+21:19:57.562 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: password]
+21:19:57.672 INFO  manager.MyListener Start searching element by By.id: login
+21:19:57.691 INFO  manager.MyListener Finish searching element by By.id: login
+21:19:57.733 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: login]
+21:20:01.741 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:20:11.818 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+21:20:12.640 INFO  TestBase Login NegativeWrongEmail Test finished
+21:20:12.641 INFO  manager.NGListener The test success: loginNegativeWrongEmailTest
+21:20:12.641 INFO  manager.NGListener Start of the test loginNegativeWrongEmailTest
+21:20:12.642 INFO  TestBase Login NegativeWrongEmail Test started
+21:20:12.703 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:20:12.726 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:20:13.456 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> css selector: a[href='/login']]
+21:20:13.456 INFO  manager.MyListener Start searching element by By.id: user
+21:20:13.473 INFO  manager.MyListener Finish searching element by By.id: user
+21:20:13.545 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: user]
+21:20:13.633 INFO  manager.MyListener Start searching element by By.id: login
+21:20:13.656 INFO  manager.MyListener Finish searching element by By.id: login
+21:20:13.709 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: login]
+21:20:15.715 INFO  manager.MyListener Start searching element by By.id: password
+21:20:15.747 INFO  manager.MyListener Finish searching element by By.id: password
+21:20:15.818 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: password]
+21:20:15.911 INFO  manager.MyListener Start searching element by By.id: login
+21:20:15.928 INFO  manager.MyListener Finish searching element by By.id: login
+21:20:15.977 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: login]
+21:20:19.993 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:20:30.059 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+21:20:30.865 INFO  TestBase Login NegativeWrongEmail Test finished
+21:20:30.865 INFO  manager.NGListener The test success: loginNegativeWrongEmailTest
+21:20:30.868 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+21:20:30.870 INFO  TestBase Login NegativeWrongPassword Test started
+21:20:30.926 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:20:30.968 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:20:31.697 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> css selector: a[href='/login']]
+21:20:31.697 INFO  manager.MyListener Start searching element by By.id: user
+21:20:31.719 INFO  manager.MyListener Finish searching element by By.id: user
+21:20:31.776 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: user]
+21:20:31.867 INFO  manager.MyListener Start searching element by By.id: login
+21:20:31.889 INFO  manager.MyListener Finish searching element by By.id: login
+21:20:31.945 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: login]
+21:20:33.945 INFO  manager.MyListener Start searching element by By.id: password
+21:20:34.963 INFO  manager.MyListener Finish searching element by By.id: password
+21:20:35.022 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: password]
+21:20:35.172 INFO  manager.MyListener Start searching element by By.id: login-submit
+21:20:35.200 INFO  manager.MyListener Finish searching element by By.id: login-submit
+21:20:35.272 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: login-submit]
+21:20:39.286 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:20:49.368 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+21:20:49.369 INFO  manager.MyListener Start searching element by By.cssSelector: span[class='css-xal9c7'] span
+21:20:49.390 INFO  manager.MyListener Finish searching element by By.cssSelector: span[class='css-xal9c7'] span
+21:20:50.408 INFO  TestBase Login NegativeWrongPassword Test finished
+21:20:50.409 INFO  manager.NGListener The test success: loginNegativeWrongPasswordTest
+21:20:50.410 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+21:20:50.411 INFO  TestBase Login NegativeWrongPassword Test started
+21:20:50.470 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+21:20:50.499 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+21:20:52.446 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> css selector: a[href='/login']]
+21:20:52.447 INFO  manager.MyListener Start searching element by By.id: user
+21:20:52.474 INFO  manager.MyListener Finish searching element by By.id: user
+21:20:52.544 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: user]
+21:20:52.639 INFO  manager.MyListener Start searching element by By.id: login
+21:20:52.665 INFO  manager.MyListener Finish searching element by By.id: login
+21:20:52.722 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: login]
+21:20:54.731 INFO  manager.MyListener Start searching element by By.id: password
+21:20:54.771 INFO  manager.MyListener Finish searching element by By.id: password
+21:20:54.822 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: password]
+21:20:54.922 INFO  manager.MyListener Start searching element by By.id: login-submit
+21:20:54.942 INFO  manager.MyListener Finish searching element by By.id: login-submit
+21:20:54.995 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (e604b88d8d0db8435287fb986f54486e)] -> id: login-submit]
+21:20:59.006 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+21:21:09.082 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+21:21:09.082 INFO  manager.MyListener Start searching element by By.cssSelector: span[class='css-xal9c7'] span
+21:21:09.102 INFO  manager.MyListener Finish searching element by By.cssSelector: span[class='css-xal9c7'] span
+21:21:09.119 INFO  manager.NGListener The test failure: java.lang.AssertionError: expected [true] but found [false]
+21:21:09.120 INFO  manager.NGListener Start of the test loginNegativeWrongPasswordTest
+21:21:09.120 INFO  TestBase Login NegativeWrongPassword Test started
+21:21:09.129 INFO  manager.MyListener Start searching element by By.id: user
+21:21:19.172 ERROR manager.MyListener Something went wrong
+21:21:19.173 ERROR manager.MyListener no such element: Unable to locate element: {"method":"css selector","selector":"#user"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63106}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e604b88d8d0db8435287fb986f54486e
+*** Element info: {Using=id, value=user}
+21:21:19.173 ERROR manager.MyListener no such element: Unable to locate element: {"method":"css selector","selector":"#user"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63106}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e604b88d8d0db8435287fb986f54486e
+*** Element info: {Using=id, value=user}
+21:21:19.615 INFO  manager.MyListener Here is the link to screenshot with error: src/test/screenshots/screenshot - 1279.png
+21:21:19.616 INFO  manager.NGListener The test failure: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#user"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63106}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e604b88d8d0db8435287fb986f54486e
+*** Element info: {Using=id, value=user}
+21:21:19.618 INFO  manager.NGListener Start of the test loginPositiveTest
+21:21:19.618 INFO  TestBase Login Positive Test started
+21:21:19.629 INFO  manager.MyListener Start searching element by By.id: user
+21:21:29.644 ERROR manager.MyListener Something went wrong
+21:21:29.645 ERROR manager.MyListener no such element: Unable to locate element: {"method":"css selector","selector":"#user"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63106}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e604b88d8d0db8435287fb986f54486e
+*** Element info: {Using=id, value=user}
+21:21:29.645 ERROR manager.MyListener no such element: Unable to locate element: {"method":"css selector","selector":"#user"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63106}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e604b88d8d0db8435287fb986f54486e
+*** Element info: {Using=id, value=user}
+21:21:30.044 INFO  manager.MyListener Here is the link to screenshot with error: src/test/screenshots/screenshot - 1289.png
+21:21:30.045 INFO  manager.NGListener The test failure: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#user"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JULIA', ip: '192.168.30.186', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\juliy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63106}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e604b88d8d0db8435287fb986f54486e
+*** Element info: {Using=id, value=user}
