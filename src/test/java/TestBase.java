@@ -19,11 +19,11 @@ public class TestBase {
   public static ApplicationManager app=new ApplicationManager
            ( System.getProperty("browser", BrowserType.CHROME));//default CHROME
     Logger logger = LoggerFactory.getLogger(TestBase.class);
-    @BeforeSuite
-    public void setUp() throws IOException {
+    @BeforeSuite(alwaysRun=true)//(groups = {"first"})
+        public void setUp() throws IOException {
         app.init();
     }
-    @AfterSuite
+    @AfterSuite(alwaysRun = true)
     public void setDown(){
         app.stop();
     }

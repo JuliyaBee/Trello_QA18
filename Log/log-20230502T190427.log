@@ -1,0 +1,34 @@
+19:04:27.873 INFO  manager.ApplicationManager Config file is: config
+19:04:27.875 INFO  manager.ApplicationManager Config file full name: src/test/resources/config.properties
+19:04:29.817 INFO  manager.ApplicationManager Testing on Chrome Driver
+19:04:32.196 INFO  manager.ApplicationManager Base url is:http://trello.com
+19:04:32.244 INFO  manager.NGListener Start of the test loginPositiveTest
+19:04:32.245 INFO  TestBase Login Positive Test started
+19:04:32.259 INFO  manager.MyListener Start searching element by By.cssSelector: a[href='/login']
+19:04:32.287 INFO  manager.MyListener Finish searching element by By.cssSelector: a[href='/login']
+19:04:33.904 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (75bdd439357d59875f9a989ba22bea13)] -> css selector: a[href='/login']]
+19:04:33.904 INFO  manager.MyListener Start searching element by By.id: user
+19:04:33.931 INFO  manager.MyListener Finish searching element by By.id: user
+19:04:33.993 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (75bdd439357d59875f9a989ba22bea13)] -> id: user]
+19:04:34.101 INFO  manager.MyListener Start searching element by By.id: login
+19:04:34.123 INFO  manager.MyListener Finish searching element by By.id: login
+19:04:34.175 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (75bdd439357d59875f9a989ba22bea13)] -> id: login]
+19:04:36.190 INFO  manager.MyListener Start searching element by By.id: password
+19:04:37.450 INFO  manager.MyListener Finish searching element by By.id: password
+19:04:37.502 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (75bdd439357d59875f9a989ba22bea13)] -> id: password]
+19:04:37.603 INFO  manager.MyListener Start searching element by By.id: login-submit
+19:04:37.629 INFO  manager.MyListener Finish searching element by By.id: login-submit
+19:04:37.688 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (75bdd439357d59875f9a989ba22bea13)] -> id: login-submit]
+19:04:39.704 INFO  manager.MyListener Start searching element by By.className: OUdAuicP657Tka
+19:04:45.515 INFO  manager.MyListener Finish searching element by By.className: OUdAuicP657Tka
+19:04:45.519 INFO  manager.MyListener Start searching element by By.cssSelector: button[data-testid='header-member-menu-button']
+19:04:45.543 INFO  manager.MyListener Finish searching element by By.cssSelector: button[data-testid='header-member-menu-button']
+19:04:45.660 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (75bdd439357d59875f9a989ba22bea13)] -> css selector: button[data-testid='header-member-menu-button']]
+19:04:45.660 INFO  manager.MyListener Start searching element by By.cssSelector: button[data-testid='account-menu-logout']
+19:04:45.895 INFO  manager.MyListener Finish searching element by By.cssSelector: button[data-testid='account-menu-logout']
+19:04:47.216 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (75bdd439357d59875f9a989ba22bea13)] -> css selector: button[data-testid='account-menu-logout']]
+19:04:47.217 INFO  manager.MyListener Start searching element by By.id: logout-submit
+19:04:47.252 INFO  manager.MyListener Finish searching element by By.id: logout-submit
+19:04:48.292 INFO  manager.MyListener After clicking on [[ChromeDriver: chrome on WINDOWS (75bdd439357d59875f9a989ba22bea13)] -> id: logout-submit]
+19:04:50.298 INFO  TestBase Login Positive Test finished
+19:04:50.301 INFO  manager.NGListener The test success: loginPositiveTest
